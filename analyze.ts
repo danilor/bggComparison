@@ -16,10 +16,12 @@ type gameAnalysisResult = {
 };
 
 
-function generateHtmlFile(result: gameAnalysisResult[]): Promise<boolean> {
+function generateHtmlFile(games: gameAnalysisResult[]): Promise<boolean> {
     return new Promise<boolean>((resolve, reject) => {
         ConsoleClass.c('Generating HTML File');
 
+
+        const result = _.sortBy(games,'name');
 
         const rows = result.map((game: gameAnalysisResult) => {
             return `
