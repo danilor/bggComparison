@@ -1,0 +1,18 @@
+{
+  "_vendor-Bm27cbz2.js": {
+    "file": "assets/vendor-Bm27cbz2.js",
+    "name": "vendor"
+  },
+  "index.html": {
+    "file": "assets/index-Cw8E_Zys.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor-Bm27cbz2.js"
+    ],
+    "css": [
+      "assets/index-dN2Gfm_U.css"
+    ]
+  }
+}

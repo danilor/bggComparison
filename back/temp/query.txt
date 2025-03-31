@@ -1,0 +1,173 @@
+
+                    INSERT INTO collection(id,title,version,image,user) VALUES 
+                         ('173346','7 Wonders Duel','','https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__original/img/Ju836WNSaW7Mab9Vjq2TJ_FqhWQ=/0x0/filters:format(jpeg)/pic2576399.jpg','Kaladin_')
+                    ,
+                         ('230802','Azul','','https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__original/img/AkbtYVc6xXJF3c9EUrakklcclKw=/0x0/filters:format(png)/pic6973671.png','Kaladin_')
+                    ,
+                         ('143741','BANG! The Dice Game','','https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__original/img/3CcRDvDttHpWLP6wc_jZHufTfl4=/0x0/filters:format(jpeg)/pic2909713.jpg','Kaladin_')
+                    ,
+                         ('165950','Beasty Bar','','https://cf.geekdo-images.com/7_y1dbU5GCYhIRBCO0q7rg__original/img/oTRbBA4Yq0REgBwXrNp-NvVO7Ws=/0x0/filters:format(jpeg)/pic2241067.jpg','Kaladin_')
+                    ,
+                         ('290610','Beat That!','','https://cf.geekdo-images.com/B7jYGZP9qXo_6AoKgHpNUQ__original/img/KnyvGZH4hI3erKASyCLKCbtg7Ic=/0x0/filters:format(png)/pic5483944.png','Kaladin_')
+                    ,
+                         ('2453','Blokus','','https://cf.geekdo-images.com/96YA5wUJDxtPkmPxemr5Qg__original/img/sdX6o0TZpXjsDMw071k2P80wpYw=/0x0/filters:format(jpeg)/pic2197702.jpg','Kaladin_')
+                    ,
+                         ('170216','Blood Rage','','https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__original/img/Myy6IPDJDzLoPdXrPXVZcddBQoQ=/0x0/filters:format(jpeg)/pic2439223.jpg','Kaladin_')
+                    ,
+                         ('328124','Bot Factory','','https://cf.geekdo-images.com/3AxdPt4zBDXqtrcsZx5Y9A__original/img/BL8RgyXTqZh24MRSN0acUvWMZvc=/0x0/filters:format(jpeg)/pic6514058.jpg','Kaladin_')
+                    ,
+                         ('164159','BUS','','https://cf.geekdo-images.com/MC-emOkpWJYRLD0dOHXBtA__original/img/S0muFYASgljhmmpQ9w4N4lND3UY=/0x0/filters:format(jpeg)/pic2559563.jpg','Kaladin_')
+                    ,
+                         ('153938','Camel Up','','https://cf.geekdo-images.com/jVr1bGBQpshqVPcwvZ7CPg__original/img/GlPdJsTvSho-vqwOOYfC4zyvOa0=/0x0/filters:format(jpeg)/pic1918028.jpg','Kaladin_')
+                    ,
+                         ('41','Can\'t Stop: L-Board','','https://cf.geekdo-images.com/F7f85Fzs8trFjWYbPbBNxw__original/img/L-D6zQNeBwTf92DiJFsNuj3wQGw=/0x0/filters:format(jpeg)/pic7594787.jpg','Kaladin_')
+                    ,
+                         ('822','Carcassonne','','https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__original/img/aVZEXAI-cUtuunNfPhjeHlS4fwQ=/0x0/filters:format(png)/pic6544250.png','Kaladin_')
+                    ,
+                         ('13','CATAN','','https://cf.geekdo-images.com/PyUol9QxBnZQCJqZI6bmSA__original/img/g11AF48C6pLizxWPAq9dUEeKltQ=/0x0/filters:format(png)/pic8632666.png','Kaladin_')
+                    ,
+                         ('367791','CATAN: The Helpers','','https://cf.geekdo-images.com/tT99vEvHHXHStKFt0xE5IA__original/img/GyYdjXzYiiJr5sumJI78bBSJuUo=/0x0/filters:format(png)/pic6983664.png','Kaladin_')
+                    ,
+                         ('478','Citadels','','https://cf.geekdo-images.com/42iW4E-vOumFXRQAiSf-GA__original/img/ochY5pK4sq4vtzkka0OPRwsGLOE=/0x0/filters:format(jpeg)/pic3239104.jpg','Kaladin_')
+                    ,
+                         ('214887','CO₂: Second Chance','','https://cf.geekdo-images.com/giSEjstTofNSRnu1A2kPeA__original/img/TK2VWdLEh-tmqVuWMCYcmEHgiM0=/0x0/filters:format(jpeg)/pic4543193.jpg','Kaladin_')
+                    ,
+                         ('11971','Cockroach Poker','','https://cf.geekdo-images.com/lHadyVLPUQfNz_qV6MMp_Q__original/img/qN8xusrxWyTJfgq1gTUWrdE4B2I=/0x0/filters:format(jpeg)/pic3218988.jpg','Kaladin_')
+                    ,
+                         ('158899','Colt Express','','https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__original/img/okv8rhQupsrXsEJsovQ_BJV5hKA=/0x0/filters:format(jpeg)/pic2869710.jpg','Kaladin_')
+                    ,
+                         ('197178','DIG','','https://cf.geekdo-images.com/nvsTtFFHwXIkRu4tkE7M2w__original/img/5oMWZSjzeHAJSzqDGVdMaEMJ9VQ=/0x0/filters:format(jpeg)/pic3214708.jpg','Kaladin_')
+                    ,
+                         ('39856','Dixit','','https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__original/img/jt3kFCHJ3HJ2079dMLwipFZqdQg=/0x0/filters:format(jpeg)/pic6738336.jpg','Kaladin_')
+                    ,
+                         ('206939','Do De Li Do','','https://cf.geekdo-images.com/KKL-2QVDa4wa7he4iR28iw__original/img/InocCobxBoqOxFAEpux2si6k700=/0x0/filters:format(jpeg)/pic3240504.jpg','Kaladin_')
+                    ,
+                         ('148083','Dogs','','https://cf.geekdo-images.com/vNUdK8ltKEb6yQiSolzQDQ__original/img/l23Gxc9DbiEwSIOEYvW5xTKl3_g=/0x0/filters:format(png)/pic3382176.png','Kaladin_')
+                    ,
+                         ('13004','The Downfall of Pompeii','','https://cf.geekdo-images.com/eZjGZ9O4hdUnc47rDgAgRg__original/img/dH4prpq1jPIi9IS_7a44MlBm6J4=/0x0/filters:format(jpeg)/pic1685805.jpg','Kaladin_')
+                    ,
+                         ('181345','Dr. Eureka','','https://cf.geekdo-images.com/6VGIQ5sUWjA3j3fPLSmq4g__original/img/5RxCsF5hbHiY4Rm7ZYQc7F6PdqM=/0x0/filters:format(jpeg)/pic6036702.jpg','Kaladin_')
+                    ,
+                         ('148203','Dutch Blitz','','https://cf.geekdo-images.com/ipuSaHTjxDpXAee-3vttiA__original/img/oyPs5ZLZb6e2g_8nA0uZAOKE4EM=/0x0/filters:format(jpeg)/pic336418.jpg','Kaladin_')
+                    ,
+                         ('142379','Escape Plan','','https://cf.geekdo-images.com/J-sgq_IT2g6WfnuMY7Y8PA__original/img/GZDhrKUFllmCwVdvcPpSYthyyq0=/0x0/filters:format(jpeg)/pic4178038.jpg','Kaladin_')
+                    ,
+                         ('277156','Escape Plan: Upgrade Pack','','https://cf.geekdo-images.com/fdmyqJgfNhtZvIynEYVqBg__original/img/NQOTAx1k8cla-YRnDs6Ju-U-YiM=/0x0/filters:format(png)/pic4677455.png','Kaladin_')
+                    ,
+                         ('272682','Expedition to Newdale','','https://cf.geekdo-images.com/qpGBNV1z2RR8Ed0913Rwlg__original/img/3iLwwm5CPojuXw_1UZBDUqzaUw8=/0x0/filters:format(jpeg)/pic4956399.jpg','Kaladin_')
+                    ,
+                         ('172225','Exploding Kittens','','https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__original/img/0ciN1VZYifUd0qIDO0e8cGXmiss=/0x0/filters:format(png)/pic2691976.png','Kaladin_')
+                    ,
+                         ('260214','Exploding Kittens: Streaking Kittens','','https://cf.geekdo-images.com/NTKDuf6oQOXTYLP56elQ7w__original/img/5KNUp6geyom1XMopini-QYwSRZ0=/0x0/filters:format(jpeg)/pic4385457.jpg','Kaladin_')
+                    ,
+                         ('83195','Fantasma Blitz','','https://cf.geekdo-images.com/0VvL-xYBsePb1DaV7AtpPw__original/img/8Sm6xq3mCTUdoqyw3029iBquvv4=/0x0/filters:format(jpeg)/pic1322076.jpg','Kaladin_')
+                    ,
+                         ('1472','Five Crowns','','https://cf.geekdo-images.com/sPc6K1gC--QrGHkdCmD8MQ__original/img/oWAwl_4jKymtzwQ2TyuWPKJKITo=/0x0/filters:format(jpeg)/pic2869930.jpg','Kaladin_')
+                    ,
+                         ('172','For Sale','','https://cf.geekdo-images.com/3GpIKOUyQxiuaO0o-3muhw__original/img/0C3gRFOQoxl6D4t0g6Vt2Ql94Wk=/0x0/filters:format(jpeg)/pic4060427.jpg','Kaladin_')
+                    ,
+                         ('339214','Fruit Fight','','https://cf.geekdo-images.com/IGaYDyjO1eCh4D_RnMuJKA__original/img/FumUNHkNzt7GCvvSSfyAsX73A_o=/0x0/filters:format(png)/pic8702739.png','Kaladin_')
+                    ,
+                         ('239951','Gretchinz!','','https://cf.geekdo-images.com/Dv7p-wFsyKbRwlWo8FObwQ__original/img/l35780eNnTPWDvbMluOVbhu4Yd8=/0x0/filters:format(jpeg)/pic3856833.jpg','Kaladin_')
+                    ,
+                         ('284742','Honey Buzz','','https://cf.geekdo-images.com/q3KbDdmiSkvKucANAdOU1g__original/img/2mJguceZAdOqSem23FEHobaZ0a4=/0x0/filters:format(jpeg)/pic5608344.jpg','Kaladin_')
+                    ,
+                         ('341512','In the Ashes','','https://cf.geekdo-images.com/VT00jV8ChvCZPU9QM5n5hw__original/img/7eVQ0RuiCy_bJdM_iLouefcFv30=/0x0/filters:format(jpeg)/pic8147445.jpg','Kaladin_')
+                    ,
+                         ('307997','Insider Black','','https://cf.geekdo-images.com/goqvyYR_gRC44BRoZIaNhQ__original/img/69lxD_BtbhK3pu93Mgng8QvkWr0=/0x0/filters:format(png)/pic5797031.png','Kaladin_')
+                    ,
+                         ('161383','LIE','','https://cf.geekdo-images.com/2a90ieAFRP4xIzKbJUHf9w__original/img/MfPGb3u7mEVN9xxthqhbJ_vSYIo=/0x0/filters:format(jpeg)/pic2559567.jpg','Kaladin_')
+                    ,
+                         ('161533','Lisboa','','https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__original/img/hVArRkZYHiPTGTfi0DPR58i4o44=/0x0/filters:format(jpeg)/pic3209553.jpg','Kaladin_')
+                    ,
+                         ('312484','Lost Ruins of Arnak','','https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__original/img/CXqwimJPonWy1oyXEMgPN_ZVmUI=/0x0/filters:format(jpeg)/pic5674958.jpg','Kaladin_')
+                    ,
+                         ('341254','Lost Ruins of Arnak: Expedition Leaders','','https://cf.geekdo-images.com/U4aoXbKATU7YbA8bAT73FQ__original/img/TKJnD49aci6Soc214_MTUe1iNmg=/0x0/filters:format(png)/pic6253876.png','Kaladin_')
+                    ,
+                         ('143884','Machi Koro','','https://cf.geekdo-images.com/_lI2eUDHfesfe5SswJiFAg__original/img/H4XHVffQ4SOxgWoG396I9LUrwg8=/0x0/filters:format(png)/pic4783831.png','Kaladin_')
+                    ,
+                         ('29223','Marrakech','','https://cf.geekdo-images.com/JFE29MODWOFXreEmM-xhyQ__original/img/o3eyWAqWhMfOIP-iTB4namBJeFk=/0x0/filters:format(jpeg)/pic8594649.jpg','Kaladin_')
+                    ,
+                         ('346501','Mille Fiori','','https://cf.geekdo-images.com/ppdkjrk9iKLa_f778Y69ow__original/img/PZxbT3VKBkTnsE89I5zJFxXrZQ8=/0x0/filters:format(jpeg)/pic6929694.jpg','Kaladin_')
+                    ,
+                         ('345584','Mindbug: First Contact','','https://cf.geekdo-images.com/b8gl6w-BqUVgBURdyFcFZg__original/img/chGo_gyJr418yMPchcWhLoW5AjQ=/0x0/filters:format(png)/pic7646386.png','Kaladin_')
+                    ,
+                         ('3886','Nine Men\'s Morris','','https://cf.geekdo-images.com/_42qt4-sUNP6niR_H3l5iA__original/img/RvZnNGpEfluy1go0Spu8l2iDAMQ=/0x0/filters:format(png)/pic2204355.png','Kaladin_')
+                    ,
+                         ('811','The Original Rummikub Classic','','https://cf.geekdo-images.com/woaw4HlLSBzxJnJBSnqgWQ__original/img/6_vrJE1g12b_h1SW1EjjwWTXGWM=/0x0/filters:format(jpeg)/pic8082735.jpg','Kaladin_')
+                    ,
+                         ('164928','Orléans','','https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__original/img/Qn6vlBaTUaHNFsqohIUjd0EA4z0=/0x0/filters:format(jpeg)/pic6228507.jpg','Kaladin_')
+                    ,
+                         ('204814','Orléans: Trade & Intrigue','','https://cf.geekdo-images.com/oIkUXEamzeUHHf-Jhow_zg__original/img/2bfq1WL5ILWHI7eDP-YmcHsZ3Pc=/0x0/filters:format(jpeg)/pic6228509.jpg','Kaladin_')
+                    ,
+                         ('255034','Papua','','https://cf.geekdo-images.com/fHlxsqclqSlr9erDfrDGxg__original/img/4KuFa4V21bj81kdbyScCyUJ3eVg=/0x0/filters:format(jpeg)/pic4232877.jpg','Kaladin_')
+                    ,
+                         ('2593','Pass the Pigs','','https://cf.geekdo-images.com/blW_a3O5Md5bE1jFygJ6SA__original/img/rbBCCKoEY8QvfaXeDSySuVVTUXk=/0x0/filters:format(jpeg)/pic697422.jpg','Kaladin_')
+                    ,
+                         ('197641','Pictionary (2013 edition)','','https://cf.geekdo-images.com/RExyXexM5ZimXAD4fYTdow__original/img/R0a_Tr3YlK4qjKSJ3KNiuLxHKUI=/0x0/filters:format(jpeg)/pic6298751.jpg','Kaladin_')
+                    ,
+                         ('255635','Pitch Out','','https://cf.geekdo-images.com/_hp2696tUWG9ZI3M-63eZw__original/img/Wt--j27ZFCXD1jKjdCnBiaESZW0=/0x0/filters:format(jpeg)/pic5643194.jpg','Kaladin_')
+                    ,
+                         ('180974','Potion Explosion','','https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__original/img/6sAfG89R42SJRv2wjiItRTMmcoQ=/0x0/filters:format(jpeg)/pic7298696.jpg','Kaladin_')
+                    ,
+                         ('330478','Power Failure','','https://cf.geekdo-images.com/ZxGc_f3klQSz1_y_ajk-wQ__original/img/ANEoiGzPWz4rsFIH8NiHJ0xMJ3o=/0x0/filters:format(jpeg)/pic5972960.jpg','Kaladin_')
+                    ,
+                         ('25669','Qwirkle','','https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__original/img/FNi6yap-UmVKX8X6rj0A_YW2q8Y=/0x0/filters:format(jpeg)/pic309353.jpg','Kaladin_')
+                    ,
+                         ('171489','Qwirkle Rummy','','https://cf.geekdo-images.com/7LZrqvK3R74DdV_3FAnl5g__original/img/lu93-5eHf9TMt_WFAYw1EiGeBP8=/0x0/filters:format(jpeg)/pic5079287.jpg','Kaladin_')
+                    ,
+                         ('320','Scrabble','','https://cf.geekdo-images.com/lRJpvWybKcxdfl9seRLRFw__original/img/c-Hp-Tr80iE6-XSTUmLc6mav16A=/0x0/filters:format(jpeg)/pic1780442.jpg','Kaladin_')
+                    ,
+                         ('359764','Shake That City','','https://cf.geekdo-images.com/HJTx3HjuW0acQISomdQ7QA__original/img/3gj0-q0nPa4RVDpDk4oOYAw9EPY=/0x0/filters:format(png)/pic6776267.png','Kaladin_')
+                    ,
+                         ('17027','Sitting Ducks Gallery','','https://cf.geekdo-images.com/2mImrsHAGb7zDj9JTHIU7g__original/img/4YeQ9ESTE38flEvnX27uS1t75I8=/0x0/filters:format(jpeg)/pic256091.jpg','Kaladin_')
+                    ,
+                         ('8129','Sluff Off!','','https://cf.geekdo-images.com/kN7EhxduPIXVP1h-JOvE9w__original/img/vAnOeg3dQcGCzF5jrS8ntiWBR6o=/0x0/filters:format(jpeg)/pic3077195.jpg','Kaladin_')
+                    ,
+                         ('63268','Spot it!','','https://cf.geekdo-images.com/AKdJV9CBlZBxH87EAfZ85A__original/img/2BeL9tYtJJDz7KDv0qpbrmVXWkk=/0x0/filters:format(jpeg)/pic7807049.jpg','Kaladin_')
+                    ,
+                         ('34635','Stone Age','','https://cf.geekdo-images.com/elmZegVZ6gp4_5izUgxGQQ__original/img/cR92Dm6yQ3Lgxt1yR81zUb0ooqQ=/0x0/filters:format(jpeg)/pic1632539.jpg','Kaladin_')
+                    ,
+                         ('177156','Survive: Dolphins & Squids & 5-6 Players...Oh My!','','https://cf.geekdo-images.com/TWSKODlVuPC55P0j3MsVoQ__original/img/2Oskba-4p_whyLwT8qwQ6LlDDrc=/0x0/filters:format(jpeg)/pic2557436.jpg','Kaladin_')
+                    ,
+                         ('2653','Survive: Escape from Atlantis!','','https://cf.geekdo-images.com/0M2ck50-GanxBWfOHUZ64A__original/img/5VKS6zuDQlHBQcTcDNRNFYu-7Bg=/0x0/filters:format(png)/pic1300182.png','Kaladin_')
+                    ,
+                         ('192291','Sushi Go Party!','','https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__original/img/WQcFmlhYBMIp8f6gNNVhnnue1w4=/0x0/filters:format(jpeg)/pic5885689.jpg','Kaladin_')
+                    ,
+                         ('64583','SWAT!','','https://cf.geekdo-images.com/a_qClB6si_dngxAA2LYdZA__original/img/LMk3C60XKJ4KvhzAcH1Qcd7AxW8=/0x0/filters:format(jpeg)/pic638027.jpg','Kaladin_')
+                    ,
+                         ('253664','Taco Cat Goat Cheese Pizza','','https://cf.geekdo-images.com/GHrnr-Khb0LvBU_QkrC_qA__original/img/1BR5aHWIz_v4ki-YB2IiMuS-uIs=/0x0/filters:format(png)/pic7192024.png','Kaladin_')
+                    ,
+                         ('246912','Take 5 & Take A Number','','https://cf.geekdo-images.com/F4QVKZx_DlQMoVdJZouJgQ__original/img/qCRVl4WKw3D-R1wq9MLHY7q-7NE=/0x0/filters:format(jpeg)/pic6684008.jpg','Kaladin_')
+                    ,
+                         ('375651','That\'s Not a Hat','','https://cf.geekdo-images.com/y_8E6IhpFg5z-_9KHdQYYQ__original/img/nDlt2BB6wA2avRDDO8MKgP0bjW4=/0x0/filters:format(jpeg)/pic7386321.jpg','Kaladin_')
+                    ,
+                         ('406663','That\'s Not a Hat: Pop Culture','','https://cf.geekdo-images.com/f05Ep10b3StPqbWLRKYC1A__original/img/NiPbv7ghiT19dsl3_qAsnhdFIqA=/0x0/filters:format(jpeg)/pic8000153.jpg','Kaladin_')
+                    ,
+                         ('352263','Through Ice & Snow','','https://cf.geekdo-images.com/a2axYlIe13E3vPjPtjW8LA__original/img/w-3Ukb3mczjog-GYf3qS3lvUPco=/0x0/filters:format(jpeg)/pic6820369.jpg','Kaladin_')
+                    ,
+                         ('329841','Ticket to Ride: Europe – 15th Anniversary','','https://cf.geekdo-images.com/bilOnrR0vksMgjDK1zWPmQ__original/img/fPg2PgpQ4npHW6cW8-16GNDbuRg=/0x0/filters:format(png)/pic5941381.png','Kaladin_')
+                    ,
+                         ('16747','Tumblin\' Dice','','https://cf.geekdo-images.com/c1QnLyOiQ6IcnXJuJacTqw__original/img/68S-1F7zl_seozsuDZzOHVSRXV4=/0x0/filters:format(jpeg)/pic7243922.jpg','Kaladin_')
+                    ,
+                         ('191876','Ulm','','https://cf.geekdo-images.com/geu4jwp2Zskpb4qjbBA1Nw__original/img/-fX3iabCxpVSztQhQYlJhr6ToMk=/0x0/filters:format(jpeg)/pic3193554.jpg','Kaladin_')
+                    ,
+                         ('207820','Vinhos Deluxe Edition: Tasting Room Expansion Pack','','https://cf.geekdo-images.com/aBMCwl2P1I_iB_rGvdmXHw__original/img/lJ9plBfiURHavUOv7OAzHlciJIo=/0x0/filters:format(jpeg)/pic3211220.jpg','Kaladin_')
+                    ,
+                         ('175640','Vinhos: Deluxe Edition','','https://cf.geekdo-images.com/JuyN9UOenAG_BlO-APPpdw__original/img/_0ZWOmqFvL5UybNWgPIyioib3mQ=/0x0/filters:format(jpeg)/pic2649446.jpg','Kaladin_')
+                    ,
+                         ('266192','Wingspan','','https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/cI782Zis9cT66j2MjSHKJGnFPNw=/0x0/filters:format(jpeg)/pic4458123.jpg','Kaladin_')
+                    ,
+                         ('366161','Wingspan Asia','','https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__original/img/MSX7waTxS81SiyxAmmCJFFWAl1I=/0x0/filters:format(jpeg)/pic7107431.jpg','Kaladin_')
+                    ,
+                         ('290448','Wingspan: European Expansion','','https://cf.geekdo-images.com/7izK8WM_bgtvBzxQvLGz-A__original/img/NFkKrFCKJ1YUC1x7bpx-WVDhLq0=/0x0/filters:format(jpeg)/pic4982682.jpg','Kaladin_')
+                    ,
+                         ('300580','Wingspan: Oceania Expansion','','https://cf.geekdo-images.com/Nl_5PvrmI6aS-1qqiJ6JAw__original/img/Y4F8LD6FKN82ERsoe92o25oAF2E=/0x0/filters:format(png)/pic5685481.png','Kaladin_')
+                    ,
+                         ('286428','Wits & Wagers: It\'s Vegas, Baby!','','https://cf.geekdo-images.com/cKSBLQPsKojVoe5NLgISNg__original/img/rWhvlDDL8d4GTCbTKXNQhpTKkac=/0x0/filters:format(png)/pic5055423.png','Kaladin_')
+                    ,
+                         ('1465','Wizard','','https://cf.geekdo-images.com/ygVQlepjPxyg7IizSCM_Tw__original/img/r4yWLAxR7Fj3Rnkry3lzSSObufQ=/0x0/filters:format(jpeg)/pic5948.jpg','Kaladin_')
+                    ,
+                         ('330510','Yucatan','','https://cf.geekdo-images.com/t4aY40uhecB1DCP5V2Ppng__original/img/EyNqcGe__cXK12YD-JdHmmVCEGE=/0x0/filters:format(jpeg)/pic7454912.jpg','Kaladin_')
+                    
+                
